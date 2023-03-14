@@ -1,2 +1,2 @@
 # Resume
-![download](https://user-images.githubusercontent.com/24949723/208606039-8571381b-6f49-4bbe-adc3-7cde46c864f2.png)
+![CV1024_1](https://user-images.githubusercontent.com/24949723/224866542-77ecfbca-8d57-4ac2-ba14-84b629c3362a.jpg)
