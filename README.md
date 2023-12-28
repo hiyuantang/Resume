@@ -30,7 +30,7 @@
 
 ## Publications
 
-- Veerabadran, V., Ravishankar, S., Tang, Y., Raina, R., & de Sa, V.R. "Adaptive recurrent vision performs zero-shot computation scaling to unseen difficulty levels", NeurIPS 2023 Conference. [Read the paper](https://openreview.net/forum?id=iqezE0EyXq&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DNeurIPS.cc%2F2023%2FConference%2FAuthors%23your-submissions)).
+- Veerabadran, V., Ravishankar, S., Tang, Y., Raina, R., & de Sa, V.R. `Adaptive recurrent vision performs zero-shot computation scaling to unseen difficulty levels`, NeurIPS 2023. [Read the paper](https://openreview.net/forum?id=iqezE0EyXq&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DNeurIPS.cc%2F2023%2FConference%2FAuthors%23your-submissions)).
 
 
 ## Teaching Experience
