@@ -12,7 +12,7 @@
 - **GPA:** 4.0/4.0
 - **Courses:** CS283 Advanced Computer Vision, AC207 Systems Development for Computational Science, AC 209a Data Science
 
-### University of California San Diego, La Jolla, CA
+### University of California, San Diego, CA
 - **Degree:** B.S. with Highest Distinction in Cognitive Science/Spec. in Machine Learning & Neural Computation
 - **Minor:** Management Science
 - **Dates:** Sept. 2018 - Dec. 2021
