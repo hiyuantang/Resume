@@ -47,5 +47,5 @@
 ## Language and Skills
 
 - **Languages:** Chinese (Native), English (Proficient)
-- **Skills:** Python, Java, SQL, Pandas, PyTorch, Scikit-Learn
+- **Skills:** Python, C, Java, SQL, Pandas, PyTorch, Scikit-Learn
 
