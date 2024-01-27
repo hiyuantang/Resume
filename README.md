@@ -10,7 +10,7 @@
 - **Degree:** M.S. in Data Science
 - **Dates:** Aug. 2023 - Present
 - **GPA:** 4.0/4.0
-- **Courses:** CS283 Advanced Computer Vision, AC207 Systems Development for Computational Science, AC 209a Data Science
+- **Courses:** CS283 Advanced Computer Vision, AC 221 Critical Thinking in Data Science, AC 209a Data Science I, AC 209b Data Science II, AC207 Systems Development for Computational Science. 
 
 ### University of California, San Diego, CA
 - **Degree:** B.S. with Highest Distinction in Cognitive Science/Spec. in Machine Learning & Neural Computation
